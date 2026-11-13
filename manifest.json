@@ -1,0 +1,9 @@
+{
+  "id": "gcrypt-sync",
+  "name": "gcrypt sync",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Pull and decrypt notes from a git-remote-gcrypt repository on GitHub (works on mobile).",
+  "author": "NerKnutson",
+  "isDesktopOnly": false
+}
